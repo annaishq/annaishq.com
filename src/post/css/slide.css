@@ -1,0 +1,10 @@
+.slide {
+  font-size: 16px;
+  p, ul, ol {
+    margin-top: 1em;
+  }
+  code {
+    font-size: 70%;
+    border-radius: 3px;
+  }
+}
